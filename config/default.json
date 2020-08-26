@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://ines-admin:ines-admin@devconnector.0jfhb.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
