@@ -1,6 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://ines-admin:ines-admin@devconnector.0jfhb.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "36d38434dcf9a0054976",
-    "githubSecret": "30cb8d6960dee7c9dada778c8e931233d2687685"
+    "mongoURI": <mongoURI>,
+    "jwtSecret": <mysecrettoken>,
+    "githubClientId": <githubID>,
+    "githubSecret": <githubSecret>
 }
